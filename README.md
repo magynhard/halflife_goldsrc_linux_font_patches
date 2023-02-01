@@ -28,3 +28,13 @@ To uninstall you can run the following command:
 ```bash
 \curl -sSL https://raw.githubusercontent.com/magynhard/halflife_goldsrc_linux_font_patches/master/setup.sh | ACTION=uninstall bash
 ```
+
+## Additional improvements
+To get symbol icons working well (when using spectator mode and its dropdowns), you need to install the MS fonts package of your linux distribution.
+
+The symbol fonts name is `Marlett`.
+
+| Distribution | Package             | Info                |
+|--------------|---------------------|---------------------|
+| Ubuntu | `ttf-mscorefonts-installer`                    | `sudo apt install ttf-mscorefonts-installer` |
+| Arch / Manjaro | `ttf-ms-win11-auto` | AUR repository      |
