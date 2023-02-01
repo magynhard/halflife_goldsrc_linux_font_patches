@@ -33,7 +33,7 @@ sudo dnf install ruby
 ### Install
 Run
 ```bash
-\curl -sSL https://raw.githubusercontent.com/magynhard/halflife_goldsrc_linux_font_patches/master/setup.rb | ACTION=INSTALL ruby
+\curl -sSL https://raw.githubusercontent.com/magynhard/halflife_goldsrc_linux_font_patches/master/setup.sh | ACTION=INSTALL bash
 ```
 in your terminal to run the automatic installer script.
 
@@ -43,7 +43,7 @@ It will automatically detect your Linux Distro and install everything necessary.
 To uninstall you can run the following command:
 
 ```bash
-\curl -sSL https://raw.githubusercontent.com/magynhard/halflife_goldsrc_linux_font_patches/master/setup.rb | ACTION=UNINSTALL ruby
+\curl -sSL https://raw.githubusercontent.com/magynhard/halflife_goldsrc_linux_font_patches/master/setup.sh | ACTION=UNINSTALL bash
 ```
 
 ## Manual install
