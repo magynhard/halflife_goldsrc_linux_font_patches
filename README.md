@@ -13,7 +13,7 @@ Patch unreadable fonts on Half-Life 1 (GoldSrc) based games on Linux.
 ### Install
 Run
 ```bash
-\curl -sSL https://get.rvm.io | bash --install
+\curl -sSL https://raw.githubusercontent.com/magynhard/halflife_goldsrc_linux_font_patches/master/install.sh | bash
 ```
 in your terminal to run the automatic installer script.
 
@@ -23,7 +23,7 @@ It will automatically detect your Linux Distro and install everything necessary.
 To uninstall you can run the following command:
 
 ```bash
-\curl -sSL https://get.rvm.io | bash --uninstall
+\curl -sSL https://raw.githubusercontent.com/magynhard/halflife_goldsrc_linux_font_patches/master/uninstall.sh | bash
 ```
 
 ## Manual install
