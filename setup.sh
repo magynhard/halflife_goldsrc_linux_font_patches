@@ -36,7 +36,7 @@ DOD_DESTINATION=$STEAM_PATH_DOD/TrackerScheme.res
 
 
 if [ "$ACTION" == "install" ]; then
-  echo -e "➜ Loading files ..."
+  echo -e "➜ Downloading files ..."
 
   cd /tmp
   rm -rf hl_font_patches
@@ -149,7 +149,6 @@ elif [ "$ACTION" == "uninstall" ]; then
     else
       echo -e "  $SYM_FAIL Scheme not installed. Skipping ..."
     fi
-    echo
 else
   echo "Unknown action '$ACTION'. Aborting ..."
   exit 1
@@ -158,4 +157,6 @@ fi
 
 
 echo
-echo -e "$SYM_SUCCESS Script finished"
+echo -e "############################################"
+echo -e "## ${YELLOW}Script finished${NORMAL}"
+echo -e "############################################"
