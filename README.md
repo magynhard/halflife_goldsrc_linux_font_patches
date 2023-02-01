@@ -6,7 +6,7 @@ Patch unreadable fonts on Half-Life 1 (GoldSrc) based games on Linux.
 
 **There are patches available for**
 * Counter-Strike 1.6
-* Day of Defeat 1.2 (coming soon)
+* Day of Defeat 1.2
 
 ## Install
 1. Install the fonts from `fonts` of this repo.
