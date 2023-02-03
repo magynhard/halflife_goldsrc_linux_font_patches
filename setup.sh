@@ -30,8 +30,8 @@ STEAM_PATH_DOD=${STEAM_PATH}/steamapps/common/Half-Life/dod
 
 FONT_DESTINATION=/usr/share/fonts/Retro\ Gaming.ttf
 
-CSTRIKE_DESTINATION=$STEAM_PATH_CSTRIKE/TrackerScheme.res
-DOD_DESTINATION=$STEAM_PATH_DOD/TrackerScheme.res
+CSTRIKE_DESTINATION=$STEAM_PATH_CSTRIKE/resource/TrackerScheme.res
+DOD_DESTINATION=$STEAM_PATH_DOD/resource/TrackerScheme.res
 
 
 
@@ -123,7 +123,7 @@ elif [ "$ACTION" == "uninstall" ]; then
     if [ -f "$CSTRIKE_DESTINATION" ]; then
       echo -e "  $SYM_SUCCESS Scheme found at ${CSTRIKE_DESTINATION}"
       echo -e "  ➜ Uninstalling scheme ..."
-      sudo rm -rf "$CSTRIKE_DESTINATION"
+      rm -rf "$CSTRIKE_DESTINATION"
       if [ -f "$CSTRIKE_DESTINATION" ]; then
         echo -e "    $SYM_FAIL Error when uninstalling"
         exit 1
@@ -139,7 +139,7 @@ elif [ "$ACTION" == "uninstall" ]; then
     if [ -f "$DOD_DESTINATION" ]; then
       echo -e "  $SYM_SUCCESS Scheme found at ${DOD_DESTINATION}"
       echo -e "  ➜ Uninstalling scheme ..."
-      sudo rm -rf "$DOD_DESTINATION"
+      rm -rf "$DOD_DESTINATION"
       if [ -f "$DOD_DESTINATION" ]; then
         echo -e "    $SYM_FAIL Error when uninstalling"
         exit 1
