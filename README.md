@@ -3,6 +3,11 @@ Patch unreadable fonts on Half-Life 1 (GoldSrc) based games on Linux.
 
 ![image](https://user-images.githubusercontent.com/14541962/215915153-32132781-630f-4c4f-a0d1-e7f4fa533378.png)
 
+![image](doc/ingame_dust.gif)
+
+![image](doc/ingame_main_menu.gif)
+
+
 
 ### There are patches available for
 * Counter-Strike 1.6
@@ -32,7 +37,7 @@ To uninstall you can run the following command:
 ## Additional improvements
 To get symbol icons working well (when using spectator mode and its dropdowns), you need to install the MS fonts package of your linux distribution.
 
-The symbol fonts name is `Marlett`.
+The symbol fonts name is `Marlett`. It is included in the following packages:
 
 | Distribution | Package             | Info                |
 |--------------|---------------------|---------------------|
