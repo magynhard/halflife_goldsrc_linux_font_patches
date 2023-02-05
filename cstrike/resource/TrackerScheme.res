@@ -40,7 +40,7 @@ Scheme
 		"TitleDimText"		"255 255 255 255"
 		"TitleBG"			"76 88 68 255"
 		"TitleDimBG"		"76 88 68 255"
-		
+
 		// slider tick colors
 		"SliderTickColor"	"127 140 127 255"
 		"SliderTrackColor"	"31 31 31 255"
@@ -61,7 +61,7 @@ Scheme
 		"LabelBgColor"		"ControlBG"
 		"SubPanelBgColor"	"ControlBG"
 
-		"DisabledFgColor1"		"DisabledText1" 
+		"DisabledFgColor1"		"DisabledText1"
 		"DisabledFgColor2"		"DisabledText2"			// set this to the BgColor if you don't want it to draw
 
 		"TitleBarFgColor"			"TitleText"
@@ -94,7 +94,7 @@ Scheme
 		MenuButton	  // the little arrow on the side of boxes that triggers drop down menus
 		{
 			"ButtonArrowColor"	"DimBaseText"		// color of arrows
-		   	"ButtonBgColor"		"WindowBG"			// bg color of button. same as background color of text edit panes 
+		   	"ButtonBgColor"		"WindowBG"			// bg color of button. same as background color of text edit panes
 			"ArmedArrowColor"	"BrightBaseText"	// color of arrow when mouse is over button
 			"ArmedBgColor"		"DimBaseText"		// bg color of button when mouse is over button
 		}
@@ -124,7 +124,7 @@ Scheme
 		"ListSelectionFgColor"		"SelectedText"
 		"ListBgColor"				"ListBG"		// background of server browser control, etc
 		"BuddyListBgColor"			"ListBG"		// background of buddy list pane
-		
+
 		// App-specific stuff
 		"ChatBgColor"				"WindowBG"
 
@@ -189,7 +189,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans"
+				"name"		"Liberation Sans"
 				"tall"		"15"
 				"weight"	"0"
 				"antialias"	"1"
@@ -199,7 +199,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans"
+				"name"		"Liberation Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"antialias"	"1"
@@ -210,7 +210,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans"
+				"name"		"Liberation Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"antialias"	"1"
@@ -220,7 +220,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans"
+				"name"		"Liberation Sans"
 				"tall"		"15"
 				"antialias"	"1"
 				"weight"	"0"
@@ -230,7 +230,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans"
+				"name"		"Liberation Sans"
 				"tall"		"18"
 				"weight"	"800"
 				"antialias" 	"1"
@@ -258,7 +258,7 @@ Scheme
 				"symbol"	"1"
 			}
 		}
-		
+
 		"EngineFont"
 		{
 			"1"
@@ -306,8 +306,8 @@ Scheme
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
-		}	
-		
+		}
+
 		"CreditsFont"
 		{
 			"1"
@@ -325,7 +325,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Noto Sans"
+				"name"		"Liberation Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"dropshadow"	"1"
@@ -349,7 +349,7 @@ Scheme
 		FrameBorder		"RaisedBorder"
 		TabBorder		"RaisedBorder"
 		MenuBorder		"RaisedBorder"
-		
+
 		// standard borders
 		InsetBorder
 		{
@@ -630,7 +630,7 @@ Scheme
 				}
 			}
 		}
-		
+
 		TabActiveBorder
 		{
 			"inset" "0 0 1 0"
