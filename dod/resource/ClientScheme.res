@@ -336,24 +336,53 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
-
+		// Used for chatting and camera mode info
 		"HudFont"
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"RetroGaming"
 				"tall"		"12"
 				"weight"	"600"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"antialias"	"1"
+				"yres"		"480 599"
+				"dropshadow"	"1"
+				"antialias"	"0"
 			}
 			"2"
 			{
-				"name"		"Arial"
+				"name"		"RetroGaming"
 				"tall"		"12"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"600"
+				"weight"	"600"
+				"yres"		"600 767"
 				"dropshadow"	"1"
+				"antialias"	"1"
+			}
+			"3"
+			{
+				"name"		"RetroGaming"
+				"tall"		"12"
+				"weight"	"600"
+				"yres"		"768 1023"
+				"dropshadow"	"1"
+				"antialias"	"1"
+			}
+			"4"
+			{
+				"name"		"RetroGaming"
+				"tall"		"12"
+				"weight"	"600"
+				"yres"		"1024 1199"
+				"dropshadow"	"1"
+				"antialias"	"1"
+			}
+			"5"
+			{
+				"name"		"RetroGaming"
+				"tall"		"12"
+				"weight"	"600"
+				"yres"		"1200 6000"
+				"dropshadow"	"1"
+				"antialias"	"1"
 			}
 		}
 
