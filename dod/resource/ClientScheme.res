@@ -349,7 +349,7 @@ Scheme
 			"1"
 			{
 				"name"		"Noto Serif"
-				"tall"		"20"
+				"tall"		"18"
 				"weight"	"500"		//bold 0 - 1000
 				"antialias"	"1"
 			}
