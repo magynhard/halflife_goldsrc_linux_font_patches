@@ -16,7 +16,7 @@ Patch unreadable fonts on Half-Life 1 (GoldSrc) based games on Linux.
 
 ### How the patch works
 
-At first it will install a free, readable font similar to the original one. Then it will add a additional scheme file to the game without touching any existing original file. The scheme refers to the installed font as well as using fonts from the *Noto* and *Liberation* font family.
+At first it will install a free, readable font for chatting, similar to the original one. Then it will add and apply custom scheme files. The scheme refers to the installed font as well as using fonts from the *Noto* font family.
 
 # Installation
 ## Automatic installer
@@ -35,6 +35,18 @@ To uninstall you can run the following command:
 ```
 
 ## Additional improvements
+### Default Font
+The patch refers to `Noto` as default font, but will fallback to your system font. If you want to use the optimitzed Noto fonts, ensure that they are installed on your system.
+
+They are included in the following packages:
+
+| Distribution | Package      | Info                          |
+|--------------|--------------|-------------------------------|
+| Ubuntu | `fonts-noto` | `sudo apt install fonts-noto` |
+| Arch / Manjaro | `noto-fonts` | `sudo pacman -S noto-fonts`   |
+
+
+### Symbols
 To get symbol icons working well (when using spectator mode and its dropdowns), you need to install the MS fonts package of your linux distribution.
 
 The symbol fonts name is `Marlett`. It is included in the following packages:
