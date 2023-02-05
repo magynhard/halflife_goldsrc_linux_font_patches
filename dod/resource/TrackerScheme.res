@@ -189,7 +189,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"15"
 				"weight"	"0"
 				"antialias"	"1"
@@ -199,7 +199,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"antialias"	"1"
@@ -210,7 +210,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"antialias"	"1"
@@ -220,7 +220,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"15"
 				"antialias"	"1"
 				"weight"	"0"
@@ -230,7 +230,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"18"
 				"weight"	"800"
 				"antialias" 	"1"
@@ -263,7 +263,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"12"
 				"weight"	"600"
 				"yres"		"480 599"
@@ -272,7 +272,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"12"
 				"weight"	"600"
 				"yres"		"600 767"
@@ -281,7 +281,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"12"
 				"weight"	"600"
 				"yres"		"768 1023"
@@ -290,7 +290,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"12"
 				"weight"	"600"
 				"yres"		"1024 1199"
@@ -299,7 +299,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"12"
 				"weight"	"600"
 				"yres"		"1200 6000"
@@ -368,7 +368,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"10"
 				"weight"	"600"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -376,7 +376,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"10"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"600"
@@ -388,7 +388,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"12"
 				"weight"	"600"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -396,7 +396,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"600"
@@ -408,7 +408,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"16"
 				"weight"	"600"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -416,7 +416,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"16"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"600"
@@ -428,7 +428,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"13"
 				"weight"	"0"
 				"yres"		"480 599"
@@ -441,7 +441,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"dropshadow"	"1"

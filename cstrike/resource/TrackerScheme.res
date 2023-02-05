@@ -189,7 +189,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"15"
 				"weight"	"0"
 				"antialias"	"1"
@@ -199,7 +199,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"antialias"	"1"
@@ -210,7 +210,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"antialias"	"1"
@@ -220,7 +220,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"15"
 				"antialias"	"1"
 				"weight"	"0"
@@ -230,7 +230,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"18"
 				"weight"	"800"
 				"antialias" 	"1"
@@ -325,7 +325,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Liberation Sans"
+				"name"		"Noto Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"dropshadow"	"1"
