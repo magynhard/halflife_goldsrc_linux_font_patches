@@ -16,7 +16,7 @@ Patch unreadable fonts on Half-Life 1 (GoldSrc) based games on Linux.
 
 ### How the patch works
 
-At first it will install a free, readable font similar to the original one. Then it will add a additional scheme file to the game without touching any existing original file. The scheme refers to the installed font as well as using fonts from the *Liberation* font family.
+At first it will install a free, readable font similar to the original one. Then it will add a additional scheme file to the game without touching any existing original file. The scheme refers to the installed font as well as using fonts from the *Noto* and *Liberation* font family.
 
 # Installation
 ## Automatic installer
