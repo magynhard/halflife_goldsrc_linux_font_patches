@@ -316,11 +316,12 @@ Scheme
 		//}
 
 
+		// Used for X has killed Y by Weapon Z
 		"HudFontSmall"
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"RetroGaming"
 				"tall"		"10"
 				"weight"	"600"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -328,7 +329,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Arial"
+				"name"		"RetroGaming"
 				"tall"		"10"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"600"
