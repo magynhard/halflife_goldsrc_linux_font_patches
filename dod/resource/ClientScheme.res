@@ -47,7 +47,7 @@ Scheme
 		"TitleDimText"		"255 174 0 255"
 		"TitleBG"			"255 255 0 0"
 		"TitleDimBG"		"255 255 0 0"
-		
+
 		// slider tick colors
 		"SliderTickColor"		"127 140 127 255"
 		"SliderTrackColor"	"31 31 31 255"
@@ -86,7 +86,7 @@ Scheme
 		"LabelBgColor"		"ControlBG"
 		"SubPanelBgColor"	"ControlBG"
 
-		"DisabledFgColor1"		"DisabledText1" 
+		"DisabledFgColor1"		"DisabledText1"
 		"DisabledFgColor2"		"DisabledText2"			// set this to the BgColor if you don't want it to draw
 
 		"TitleBarFgColor"			"TitleText"
@@ -118,7 +118,7 @@ Scheme
 		MenuButton	  // the little arrow on the side of boxes that triggers drop down menus
 		{
 			"ButtonArrowColor"	"DimBaseText"		// color of arrows
-		   	"ButtonBgColor"		"WindowBG"			// bg color of button. same as background color of text edit panes 
+		   	"ButtonBgColor"		"WindowBG"			// bg color of button. same as background color of text edit panes
 			"ArmedArrowColor"	"BrightBaseText"	// color of arrow when mouse is over button
 			"ArmedBgColor"		"DimBaseText"		// bg color of button when mouse is over button
 		}
@@ -148,7 +148,7 @@ Scheme
 		"ListSelectionFgColor"		"SelectedText"
 		"ListBgColor"				"ListBG"		// background of server browser control, etc
 		"BuddyListBgColor"			"ListBG"		// background of buddy list pane
-		
+
 		// App-specific stuff
 		"ChatBgColor"				"WindowBG"
 
@@ -170,7 +170,7 @@ Scheme
 
 		"ButtonFgColor"				"BrightControlText"
 		"ButtonBgColor"				"ClassMenuDark"
-	
+
 		// buddy buttons
 		BuddyButton
 		{
@@ -230,19 +230,20 @@ Scheme
 				"weight"	"800"
 			}
 		}
+		// used for stats title header
 		"DefaultVerySmall"
 		{
 			"1"
 			{
-				"name"		"Courier New"
-				"tall"		"11"
+				"name"		"Liberation Mono"
+				"tall"		"9"
 				"weight"	"0"
 				"antialiased"	"1"
 			}
 			"2"
 			{
-				"name"		"Courier"
-				"tall"		"11"
+				"name"		"Liberation Mono"
+				"tall"		"9"
 				"weight"	"0"
 				"antialiased"	"1"
 			}
@@ -314,7 +315,7 @@ Scheme
 		//	}
 		//}
 
-		
+
 		"HudFontSmall"
 		{
 			"1"
@@ -374,7 +375,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
-		
+
 	}
 
 	//
@@ -422,7 +423,7 @@ Scheme
 				}
 			}
 		}
-		
+
 		TitleButtonBorder
 		{
 			"inset" "0 0 1 1"
@@ -621,7 +622,7 @@ Scheme
 				}
 			}
 		}
-		
+
 		ButtonDepressedBorder
 		{
 			"inset" "0 0 1 1"
