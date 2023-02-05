@@ -201,21 +201,63 @@ Scheme
 		// fonts are used in order that they are listed
 		// fonts listed later in the order will only be used if they fulfill a range not already filled
 		// if a font fails to load then the subsequent fonts will replace
+
+		// Stats font and buttons
 		"Default"
 		{
 			"1"
 			{
-				"name"		"Times New Roman"
-				"tall"		"13"
-				"weight"	"400"
-				"antialias"		"1"
+				"name"		"Noto Sans"
+				"tall"		"10"
+				"weight"	"800"
+				"yres"		"480 599"
+				"antialias"	"0"
+			}
+			"2"
+			{
+				"name"		"Noto Sans"
+				"tall"		"14"
+				"weight"	"800"
+				"yres"		"600 767"
+				"antialias"	"1"
+			}
+			"3"
+			{
+				"name"		"Noto Sans"
+				"tall"		"16"
+				"weight"	"800"
+				"yres"		"768 1023"
+				"antialias"	"1"
+			}
+			"4"
+			{
+				"name"		"Noto Sans"
+				"tall"		"18"
+				"weight"	"800"
+				"yres"		"1024 1199"
+				"antialias"	"1"
+			}
+			"5"
+			{
+				"name"		"Noto Sans"
+				"tall"		"20"
+				"weight"	"800"
+				"yres"		"1200 6000"
+				"antialias"	"1"
+			}
+			"6"
+			{
+				"name"		"Noto Sans"
+				"tall"		"14"
+				"weight"	"0"
+				"antialias"	"1"
 			}
 		}
 		"DefaultUnderline"
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Noto Sans"
 				"tall"		"12"
 				"weight"	"500"
 				"underline" "1"
@@ -230,22 +272,52 @@ Scheme
 				"weight"	"800"
 			}
 		}
-		// used for stats title header
 		"DefaultVerySmall"
 		{
 			"1"
 			{
-				"name"		"Liberation Mono"
-				"tall"		"9"
-				"weight"	"0"
-				"antialiased"	"1"
+				"name"		"Noto Sans"
+				"tall"		"10"
+				"weight"	"1000"
+				"yres"		"480 599"
+				"dropshadow"	"1"
+				"antialias"	"0"
 			}
 			"2"
 			{
-				"name"		"Liberation Mono"
-				"tall"		"9"
-				"weight"	"0"
-				"antialiased"	"1"
+				"name"		"Noto Sans"
+				"tall"		"11"
+				"weight"	"1000"
+				"yres"		"600 767"
+				"dropshadow"	"1"
+				"antialias"	"1"
+			}
+			"3"
+			{
+				"name"		"Noto Sans"
+				"tall"		"14"
+				"weight"	"1000"
+				"yres"		"768 1023"
+				"dropshadow"	"1"
+				"antialias"	"1"
+			}
+			"4"
+			{
+				"name"		"Noto Sans"
+				"tall"		"18"
+				"weight"	"1000"
+				"yres"		"1024 1199"
+				"dropshadow"	"1"
+				"antialias"	"1"
+			}
+			"5"
+			{
+				"name"		"Noto Sans"
+				"tall"		"20"
+				"weight"	"1000"
+				"yres"		"1200 6000"
+				"dropshadow"	"1"
+				"antialias"	"1"
 			}
 		}
 
@@ -260,13 +332,13 @@ Scheme
 				"symbol"	"1"
 			}
 		}
-
+		// unit class selection, left menu buttons
 		"ClassMenuDefault"
 		{
 			"1"
 			{
-				"name"		"Times New Roman"
-				"tall"		"15"
+				"name"		"Noto Sans"
+				"tall"		"12"
 				"weight"	"400"
 				"antialias"		"1"
 			}
@@ -276,7 +348,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Times New Roman"
+				"name"		"Noto Serif"
 				"tall"		"20"
 				"weight"	"500"		//bold 0 - 1000
 				"antialias"	"1"
@@ -287,8 +359,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Times New Roman"
-				"tall"		"11"
+				"name"		"Noto Sans"
+				"tall"		"10"
 				"weight"	"800"		//bold 0 - 1000
 				"antialias"	"1"
 			}
@@ -298,7 +370,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Times New Roman"
+				"name"		"Noto Serif"
 				"tall"		"13"
 				"weight"	"500"		//bold 0 - 1000
 				"antialias"	"1"
@@ -315,14 +387,13 @@ Scheme
 		//	}
 		//}
 
-
 		// Used for X has killed Y by Weapon Z
 		"HudFontSmall"
 		{
 			"1"
 			{
 				"name"		"RetroGaming"
-				"tall"		"10"
+				"tall"		"12"
 				"weight"	"600"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"antialias"	"1"
@@ -330,7 +401,7 @@ Scheme
 			"2"
 			{
 				"name"		"RetroGaming"
-				"tall"		"10"
+				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"600"
 				"dropshadow"	"1"
@@ -390,19 +461,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Trebuchet MS"
+				"name"		"Noto Sans"
 				"tall"		"16"
 				"weight"	"600"
-				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"antialias"	"1"
-			}
-			"2"
-			{
-				"name"		"Arial"
-				"tall"		"16"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"600"
-				"dropshadow"	"1"
 			}
 		}
 
