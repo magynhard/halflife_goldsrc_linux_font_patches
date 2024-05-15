@@ -4,7 +4,7 @@
 > Patch unreadable fonts on Half-Life 1 (GoldSrc) based games on Linux.
 
 ```diff
-- This patch does not work anymore since the 25h anniversary update on 12/2023. A complete refactoring is necessary.
+- This patch can break after the 25th anniversary update. You will need to reinstall and repatch again.
 ```
 
 ![image](https://user-images.githubusercontent.com/14541962/215915153-32132781-630f-4c4f-a0d1-e7f4fa533378.png)
