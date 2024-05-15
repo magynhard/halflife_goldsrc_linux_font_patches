@@ -1,7 +1,11 @@
 # Half-Life (GoldSrc) Linux Font Patches
 [![Hits](https://hits.sh/github.com/magynhard/halflife_goldsrc_linux_font_patches.svg?style=plastic&label=hits&color=7011cc&logo=steam)](https://hits.sh/github.com/magynhard/halflife_goldsrc_linux_font_patches/)
 
-Patch unreadable fonts on Half-Life 1 (GoldSrc) based games on Linux.
+> Patch unreadable fonts on Half-Life 1 (GoldSrc) based games on Linux.
+
+```diff
+- This patch does not work anymore since the 25h anniversary update on 12/2023. A complete refactoring is necessary.
+```
 
 ![image](https://user-images.githubusercontent.com/14541962/215915153-32132781-630f-4c4f-a0d1-e7f4fa533378.png)
 
