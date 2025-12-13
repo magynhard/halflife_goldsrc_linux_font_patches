@@ -1,5 +1,5 @@
 # Half-Life (GoldSrc) Linux Font Patches
-[![Hits](https://hits.sh/github.com/magynhard/halflife_goldsrc_linux_font_patches.svg?style=plastic&label=hits&color=7011cc&logo=steam)](https://hits.sh/github.com/magynhard/halflife_goldsrc_linux_font_patches/)
+[![Hits](https://hits.sh/github.com/magynhard/halflife_goldsrc_linux_font_patches.svg?style=plastic&label=hits&color=blue&logo=steam)](https://hits.sh/github.com/magynhard/halflife_goldsrc_linux_font_patches/)
 
 > Patch unreadable fonts on Half-Life 1 (GoldSrc) based games on Linux.
 
