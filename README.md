@@ -1,5 +1,6 @@
 # Half-Life (GoldSrc) Linux Font Patches
 
+[![Bash](https://img.shields.io/badge/%23!-Bash-_?style=plastic&labelColor=black&color=gray)](#)
 [![Hits](https://hits.sh/github.com/magynhard/halflife_goldsrc_linux_font_patches.svg?style=plastic&label=hits&color=blue&logo=steam)](https://hits.sh/github.com/magynhard/halflife_goldsrc_linux_font_patches/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg?style=plastic&logo=mit&labelColor=beige)](LICENSE)
 
